@@ -3,6 +3,7 @@ h1,
 p {
   margin: 0;
   padding: 0;
+  font-family: Arial, sans-serif;
 }
 
 /* Header styles */
@@ -12,6 +13,7 @@ p {
   background-size: cover;
   color: white;
   padding: 240px;
+  font-family: Arial, sans-serif;
 }
 
 .navbar {
