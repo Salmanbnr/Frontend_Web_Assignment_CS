@@ -1,0 +1,45 @@
+body,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+.header {
+  background: rgba(0, 0, 0, 0.65) url("statics/Image\ \ \(2\).png");
+  background-blend-mode: darken;
+  background-size: cover;
+  color: white;
+  padding: 240px;
+}
+
+.navbar {
+  font-size: small;
+  margin-bottom: 20px;
+}
+
+.main-content h1 {
+  font-size: large;
+}
+
+.main-content p {
+  width: 50%;
+}
+
+/* Section styles */
+.section {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+.section img {
+  max-width: 50%;
+  height: auto;
+  margin-right: 100px;
+}
+
+.content-box {
+  width: 50%;
+}
